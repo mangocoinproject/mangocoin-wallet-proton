@@ -1,0 +1,1 @@
+# mangocoin-wallet-proton
