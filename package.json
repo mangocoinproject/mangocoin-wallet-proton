@@ -1,7 +1,7 @@
 {
-  "name": "proton-wallet",
-  "productName": "Proton",
-  "version": "0.1.0",
+  "name": "mangocoin-proton",
+  "productName": "MangocoinProton",
+  "version": "0.1.1",
   "description": "Mangocoin wallet based on React, React Router, Webpack, and React Hot Loader",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
@@ -46,7 +46,7 @@
   },
   "main": "./app/main.prod.js",
   "build": {
-    "productName": "proton-wallet",
+    "productName": "mangocoin-proton",
     "appId": "com.mangocoin.proton",
     "files": [
       "app/dist/",
