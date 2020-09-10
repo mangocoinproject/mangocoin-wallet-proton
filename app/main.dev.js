@@ -47,8 +47,8 @@ let backendReady = false;
 let configReady = false;
 
 const directories = [
-  `${homedir}/.protonwallet`,
-  `${homedir}/.protonwallet/logs`
+  `${homedir}/.mangocoinproton`,
+  `${homedir}/.mangocoinproton/logs`
 ];
 
 const [programDirectory] = directories;
